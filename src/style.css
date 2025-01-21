@@ -1,0 +1,9 @@
+.carousel-item img{
+    object-fit: cover;
+    overflow:hidden;
+}
+
+.card img{
+    object-fit: cover;
+    overflow:hidden;
+}
